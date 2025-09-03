@@ -1,0 +1,1 @@
+console.log("Sonido y vibración activados");

@@ -1,0 +1,1 @@
+let animationSpeed = 1; // 0.5x,1x,1.5x,2x

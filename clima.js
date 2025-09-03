@@ -1,0 +1,1 @@
+console.log("Clima: 26° Soleado");
