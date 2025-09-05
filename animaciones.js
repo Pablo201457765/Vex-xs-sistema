@@ -1,1 +1,0 @@
-console.log("Animaciones cargadas");
